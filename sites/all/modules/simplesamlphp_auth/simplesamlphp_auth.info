@@ -1,0 +1,11 @@
+;
+name = "simpleSAMLphp authentication"
+description = "Allows users to authenticate to a shibboleth or SAML 2.0 IdP."
+php = 5.1
+core = 6.x
+; Information added by drupal.org packaging script on 2011-10-26
+version = "6.x-2.7"
+core = "6.x"
+project = "simplesamlphp_auth"
+datestamp = "1319664338"
+
